@@ -1,0 +1,168 @@
+----------------------------MONDAY----------------------------
+09:05 am-09:55 am,   DPA 3070, MCADMS 118C,  TBA
+09:05 am-09:55 am,  CPSC 2100,  LEHOTS 254,  Rose M  Lowe
+09:05 am-09:55 am,  CPSC 2120,  VICKRY 100,  Brian Christopher  Dean
+09:05 am-09:55 am,  CPSC 1110,  DANIEL 415,  TBA
+09:05 am-09:55 am,  CPSC 1010,  MCADMS 119,  Yvon H.  Feaster
+09:05 am-09:55 am,  CPSC 3520,  KINARD 301,  Robert J  Schalkoff
+10:10 am-11:00 am,  CPSC 2310,  LEHOTS 138,  Rose M  Lowe
+10:10 am-11:00 am,  CPSC 1010,  MCADMS 119,  Yvon H.  Feaster
+10:10 am-11:00 am,  CPSC 1110,  DANIEL 415,  TBA
+10:10 am-11:25 am,  CPSC 8070, MCADMS 118C,  Christina Sophie  Joerg
+11:15 am-12:05 pm,  CPSC 2150,  MCADMS 119,  Yvon H.  Feaster
+12:20 pm-01:10 pm,  CPSC 8520,  POOLE A102,  James J  Martin
+12:20 pm-01:10 pm,  CPSC 1010,  DANIEL 415,  TBA
+12:20 pm-01:10 pm,  CPSC 2310,  LEHOTS 138,  Rose M  Lowe
+01:00 pm-03:45 pm,   DPA 4020,  BARRE 2022,  Timothy A  Davis
+01:00 pm-03:45 pm,   DPA 6020,  BARRE 2022,  Timothy A  Davis
+01:25 pm-02:15 pm,  CPSC 3300,  RHDANX 111,  Mark K  Smotherman
+02:30 pm-03:45 pm,  CPSC 3600,  MCADMS 119,  Sekou Lionel  Remy
+02:30 pm-03:45 pm,  CPSC 2200, MCADMS 110B,  Renee S  Lambert
+02:30 pm-03:45 pm,  CPSC 8170, MCADMS 118C,  Donald Henry  House
+04:00 pm-05:15 pm,  CPSC 8700,  MCADMS 119,  Brian A  Malloy
+04:00 pm-05:15 pm,  CPSC 4110,  DANIEL 412,  Sabarish Venkat  Babu
+04:00 pm-05:15 pm,  CPSC 6110,  DANIEL 412,  Sabarish Venkat  Babu
+04:00 pm-05:15 pm,  CPSC 8040,  MCADMS 232,  Joshua A  Levine
+04:00 pm-06:45 pm,   DPA 4020,  BARRE 2022,  Timothy A  Davis
+04:00 pm-06:45 pm,   DPA 6020,  BARRE 2022,  Timothy A  Davis
+05:30 pm-07:00 pm,  CPSC 6810,  LEHOTS 138,  Brian Christopher  Dean
+05:30 pm-07:00 pm,  CPSC 4810,  LEHOTS 138,  Brian Christopher  Dean
+05:45 pm-08:30 pm,  CPSC 8100,  MCADMS 119,  Feng   Luo
+----------------------------TUESDAY----------------------------
+08:00 am-09:15 am,  CPSC 6620,  MCADMS 119,  Pradip K.  Srimani
+08:00 am-09:15 am,  CPSC 8380,  POOLE A105,  Sandra M  Hedetniemi
+08:00 am-09:15 am,  CPSC 4620,  MCADMS 119,  Pradip K.  Srimani
+09:30 am-10:20 am,  CPSC 2910,  MCADMS 226,  Renee S  Lambert
+09:30 am-10:20 am,  CPSC 1110,  DANIEL 415,  Catherine A  Hochrine
+09:30 am-10:45 am,  CPSC 1010,  MCADMS 119,  Pradip K.  Srimani
+09:30 am-10:45 am,  CPSC 3720,  POOLE C127,  Stephen   Schaub
+09:30 am-10:45 am,  CPSC 4820,  MCADMS 232,  Sekou Lionel  Remy
+09:30 am-10:45 am,  CPSC 3620,  LEHOTS 138,  Linh Bao  Ngo
+09:30 am-10:45 am,  CPSC 6820,  MCADMS 232,  Sekou Lionel  Remy
+09:30 am-10:45 am,  CPSC 8710,  DANIEL 411,  John D  McGregor
+09:30 am-10:45 am,  CPSC 2100,   BRACK 211,  TBA
+09:30 am-10:45 am,  CPSC 8480,  DANIEL 312,  Ilya Mark  Safro
+09:30 am-10:45 am,  CPSC 1040,  MCADMS 114,  Roy P  Pargas
+09:30 am-12:15 pm,   DPA 8600,  MCADMS 230,  Timothy A  Davis
+11:00 am-11:50 am,  CPSC 1110,  DANIEL 415,  Catherine A  Hochrine
+11:00 am-11:50 am,  CPSC 2910,  MCADMS 226,  Renee S  Lambert
+11:00 am-12:15 pm,  CPSC 4820,  LEHOTS 268,  Jacob M  Sorber
+11:00 am-12:15 pm,  CPSC 6820,  LEHOTS 268,  Jacob M  Sorber
+11:00 am-12:15 pm,  CPSC 8390,   BRACK 120,  Wayne D  Goddard
+11:00 am-12:15 pm,   HCC 8310,  DANIEL 407,  TBA
+11:00 am-12:15 pm,  CPSC 2150,  MCADMS 119,  Blair Madison  Durkee
+12:30 pm-01:15 pm,  CPSC 6820,  DANIEL 312,  Roy P  Pargas
+12:30 pm-01:20 pm,  CPSC 2910,  MCADMS 226,  Renee S  Lambert
+12:30 pm-01:20 pm,  CPSC 1200,  DANIEL 415,  TBA
+12:30 pm-01:45 pm,  CPSC 3720,  MCADMS 232,  Murali   Sitaraman
+12:30 pm-01:45 pm,  CPSC 3500,  MCADMS 119,  Ilya Mark  Safro
+12:30 pm-01:45 pm,  CPSC 8810,     ASC 313,  David Stewart  Donar
+12:30 pm-01:45 pm,  CPSC 8730,  DANIEL 411,  John D  McGregor
+12:30 pm-01:45 pm,  CPSC 1020,  DANIEL 413,  Catherine A  Hochrine
+12:30 pm-01:45 pm,  CPSC 6780,  DANIEL 412,  Robert M  Geist
+12:30 pm-01:45 pm,  CPSC 4780,  DANIEL 412,  Robert M  Geist
+12:30 pm-01:45 pm,  CPSC 4120, MCADMS 110B,  Andrew T  Duchowski
+12:30 pm-01:45 pm,  CPSC 6120, MCADMS 110B,  Andrew T  Duchowski
+12:30 pm-01:45 pm,  CPSC 4820,  DANIEL 312,  Roy P  Pargas
+02:00 pm-03:15 pm,  CPSC 4200,  LEHOTS 138,  Hongxin   Hu
+02:00 pm-03:15 pm,  CPSC 2200, MCADMS 110B,  Renee S  Lambert
+02:00 pm-03:15 pm,  CPSC 3220,  MCADMS 119,  Jacob M  Sorber
+02:00 pm-03:15 pm,   HCC 8330,  DANIEL 411,  Kelly E  Caine
+02:00 pm-03:15 pm,  CPSC 6200,  LEHOTS 138,  Hongxin   Hu
+02:00 pm-03:15 pm,  CPSC 8200,  MCADMS 232,  Pradip K.  Srimani
+02:00 pm-03:15 pm,  CPSC 8150, MCADMS 118C,  Timothy A  Davis
+03:30 pm-04:20 pm,  CPSC 4910,  MCADMS 119,  James H.  Jones
+03:30 pm-04:45 pm,  CPSC 4040,  LEHOTS 138,  Joshua A  Levine
+03:30 pm-04:45 pm,  CPSC 8050, MCADMS 118C,  Jerry A.  Tessendorf
+03:30 pm-04:45 pm,  CPSC 6040,  LEHOTS 138,  Joshua A  Levine
+----------------------------WEDNESDAY----------------------------
+09:05 am-09:55 am,   DPA 3070, MCADMS 118C,  TBA
+09:05 am-09:55 am,  CPSC 2100,  LEHOTS 254,  Rose M  Lowe
+09:05 am-09:55 am,  CPSC 2120,  VICKRY 100,  Brian Christopher  Dean
+09:05 am-09:55 am,  CPSC 1110,  DANIEL 415,  TBA
+09:05 am-09:55 am,  CPSC 1010,  MCADMS 119,  Yvon H.  Feaster
+09:05 am-09:55 am,  CPSC 3520,  KINARD 301,  Robert J  Schalkoff
+10:10 am-11:00 am,  CPSC 2310,  LEHOTS 138,  Rose M  Lowe
+10:10 am-11:00 am,  CPSC 1010,  MCADMS 119,  Yvon H.  Feaster
+10:10 am-11:00 am,  CPSC 1110,  DANIEL 415,  TBA
+10:10 am-11:25 am,  CPSC 8070, MCADMS 118C,  Christina Sophie  Joerg
+11:15 am-12:05 pm,  CPSC 2150,  MCADMS 119,  Yvon H.  Feaster
+11:15 am-12:15 pm,  CPSC 9500,  MCADMS 232,  John D  McGregor
+12:20 pm-01:10 pm,  CPSC 8520,  POOLE A102,  James J  Martin
+12:20 pm-01:10 pm,  CPSC 9500,  MCADMS 226,  Jacob M  Sorber
+12:20 pm-01:10 pm,  CPSC 2310,  LEHOTS 138,  Rose M  Lowe
+12:20 pm-01:10 pm,  CPSC 1010,  DANIEL 415,  TBA
+01:00 pm-03:45 pm,   DPA 4020,  BARRE 2022,  Timothy A  Davis
+01:00 pm-03:45 pm,   DPA 6020,  BARRE 2022,  Timothy A  Davis
+01:25 pm-02:15 pm,  CPSC 3300,  RHDANX 111,  Mark K  Smotherman
+02:30 pm-03:45 pm,  CPSC 2200, MCADMS 110B,  Renee S  Lambert
+02:30 pm-03:45 pm,  CPSC 8170, MCADMS 118C,  Donald Henry  House
+02:30 pm-03:45 pm,  CPSC 3600,  MCADMS 119,  Sekou Lionel  Remy
+04:00 pm-05:15 pm,  CPSC 4110,  DANIEL 412,  Sabarish Venkat  Babu
+04:00 pm-05:15 pm,  CPSC 8700,  MCADMS 119,  Brian A  Malloy
+04:00 pm-05:15 pm,  CPSC 8040,  MCADMS 232,  Joshua A  Levine
+04:00 pm-05:15 pm,  CPSC 6110,  DANIEL 412,  Sabarish Venkat  Babu
+04:00 pm-06:45 pm,   DPA 6020,  BARRE 2022,  Timothy A  Davis
+04:00 pm-06:45 pm,   DPA 4020,  BARRE 2022,  Timothy A  Davis
+05:00 pm-06:00 pm,  CPSC 9500,         TBA,  Eileen Theresa  Kraemer
+----------------------------THURSDAY----------------------------
+08:00 am-09:15 am,  CPSC 6620,  MCADMS 119,  Pradip K.  Srimani
+08:00 am-09:15 am,  CPSC 8380,  POOLE A105,  Sandra M  Hedetniemi
+08:00 am-09:15 am,  CPSC 4620,  MCADMS 119,  Pradip K.  Srimani
+09:30 am-09:55 am,        ,  MCADMS 114,  Roy P  Pargas
+09:30 am-10:20 am,  CPSC 2910,  MCADMS 226,  James H.  Jones
+09:30 am-10:20 am,  CPSC 1110,  DANIEL 415,  Catherine A  Hochrine
+09:30 am-10:45 am,  CPSC 3720,  POOLE C127,  Stephen   Schaub
+09:30 am-10:45 am,  CPSC 6820,  MCADMS 232,  Sekou Lionel  Remy
+09:30 am-10:45 am,  CPSC 4820,  MCADMS 232,  Sekou Lionel  Remy
+09:30 am-10:45 am,  CPSC 3620,  LEHOTS 138,  Linh Bao  Ngo
+09:30 am-10:45 am,  CPSC 1010,  MCADMS 119,  Pradip K.  Srimani
+09:30 am-10:45 am,  CPSC 8710,  DANIEL 411,  John D  McGregor
+09:30 am-10:45 am,  CPSC 8480,  DANIEL 312,  Ilya Mark  Safro
+09:30 am-10:45 am,  CPSC 2100,   BRACK 211,  TBA
+09:30 am-12:15 pm,   DPA 8600,  MCADMS 230,  Timothy A  Davis
+11:00 am-11:50 am,  CPSC 1110,  DANIEL 415,  Catherine A  Hochrine
+11:00 am-11:50 am,  CPSC 2910,  MCADMS 226,  James H.  Jones
+11:00 am-12:15 pm,  CPSC 4820,  LEHOTS 268,  Jacob M  Sorber
+11:00 am-12:15 pm,  CPSC 8390,   BRACK 120,  Wayne D  Goddard
+11:00 am-12:15 pm,  CPSC 6820,  LEHOTS 268,  Jacob M  Sorber
+11:00 am-12:15 pm,   HCC 8310,  DANIEL 407,  TBA
+11:00 am-12:15 pm,  CPSC 2150,  MCADMS 119,  Blair Madison  Durkee
+12:30 pm-01:15 pm,  CPSC 6820,  DANIEL 312,  Roy P  Pargas
+12:30 pm-01:20 pm,  CPSC 2910,  MCADMS 226,  James H.  Jones
+12:30 pm-01:20 pm,  CPSC 1200,  DANIEL 415,  TBA
+12:30 pm-01:45 pm,  CPSC 3720,  MCADMS 232,  Murali   Sitaraman
+12:30 pm-01:45 pm,  CPSC 3500,  MCADMS 119,  Ilya Mark  Safro
+12:30 pm-01:45 pm,  CPSC 8810,     ASC 313,  David Stewart  Donar
+12:30 pm-01:45 pm,  CPSC 8730,  DANIEL 411,  John D  McGregor
+12:30 pm-01:45 pm,  CPSC 1020,  DANIEL 413,  Catherine A  Hochrine
+12:30 pm-01:45 pm,  CPSC 6780,  DANIEL 412,  Robert M  Geist
+12:30 pm-01:45 pm,  CPSC 4780,  DANIEL 412,  Robert M  Geist
+12:30 pm-01:45 pm,  CPSC 4120, MCADMS 110B,  Andrew T  Duchowski
+12:30 pm-01:45 pm,  CPSC 6120, MCADMS 110B,  Andrew T  Duchowski
+12:30 pm-01:45 pm,  CPSC 4820,  DANIEL 312,  Roy P  Pargas
+02:00 pm-03:15 pm,  CPSC 4200,  LEHOTS 138,  Hongxin   Hu
+02:00 pm-03:15 pm,  CPSC 2200, MCADMS 110B,  Renee S  Lambert
+02:00 pm-03:15 pm,  CPSC 3220,  MCADMS 119,  Jacob M  Sorber
+02:00 pm-03:15 pm,   HCC 8330,  DANIEL 411,  Kelly E  Caine
+02:00 pm-03:15 pm,  CPSC 6200,  LEHOTS 138,  Hongxin   Hu
+02:00 pm-03:15 pm,  CPSC 8200,  MCADMS 232,  Pradip K.  Srimani
+02:00 pm-03:15 pm,  CPSC 8150, MCADMS 118C,  Timothy A  Davis
+03:30 pm-04:20 pm,  CPSC 4910,  MCADMS 119,  James H.  Jones
+03:30 pm-04:45 pm,  CPSC 4040,  LEHOTS 138,  Joshua A  Levine
+03:30 pm-04:45 pm,  CPSC 8050, MCADMS 118C,  Jerry A.  Tessendorf
+03:30 pm-04:45 pm,  CPSC 6040,  LEHOTS 138,  Joshua A  Levine
+----------------------------FRIDAY----------------------------
+09:05 am-09:55 am,  CPSC 2120,  VICKRY 100,  Brian Christopher  Dean
+09:05 am-09:55 am,  CPSC 2100,  LEHOTS 254,  Rose M  Lowe
+09:05 am-09:55 am,  CPSC 1010,  MCADMS 119,  Yvon H.  Feaster
+09:05 am-09:55 am,  CPSC 3520,  KINARD 301,  Robert J  Schalkoff
+10:10 am-11:00 am,  CPSC 2310,  LEHOTS 138,  Rose M  Lowe
+10:10 am-11:00 am,  CPSC 1010,  MCADMS 119,  Yvon H.  Feaster
+11:15 am-12:05 pm,  CPSC 2150,  MCADMS 119,  Yvon H.  Feaster
+12:20 pm-01:10 pm,  CPSC 8520,  POOLE A102,  James J  Martin
+12:20 pm-01:10 pm,  CPSC 1010,  DANIEL 415,  TBA
+12:20 pm-01:10 pm,  CPSC 2310,  LEHOTS 138,  Rose M  Lowe
+12:30 pm-01:30 pm,  CPSC 9500,  MCADMS 119,  Donald Henry  House
+01:25 pm-02:15 pm,  CPSC 3300,  RHDANX 111,  Mark K  Smotherman
+03:30 pm-04:30 pm,  CPSC 9500,  MCADMS 230,  Brian Christopher  Dean

@@ -1,0 +1,167 @@
+----------------------------MONDAY----------------------------			
+			
+CP SC   102	9:05-9:55MWF	119 MCADM	Lowe Rose M
+CP SC   120	9:05-9:55MW	415 DANL	Daily Shaundra B
+CP SC   111	10:10-11:00MW	415 DANL	Sterling Patrick D
+CP SC   231	10:10-11:00MWF	119 MCADM	Lowe Rose M
+CP SC   350	10:10-11:00MWF	114 MCADM	Stevenson Dennis E
+CP SC   881	10:10-11:00MWF	408 DANL	Woodard Damon L
+CP SC   111	11:15-12:05MW	415 DANL	Sterling Patrick D
+CP SC   120	11:15-12:05MW	119 MCADM	Hochrine Catherine A
+CP SC   330	11:15-12:05MWF	254 LEHOT	Smotherman Mark K
+CP SC   120	1:25-2:15MW	415 DANL	Lambert Renee S
+CP SC   881	1:25-2:15MWF	118C MCADM	Joerg Christina Soph
+CP SC   220	2:30-3:45MW	110B MCADM	Not Assigned
+CP SC   881	2:30-3:45MW	114 MCADM	Safro Ilya Mark
+CP SC   215	4:00-5:15MW	114 MCADM	Sorber Jacob M
+CP SC   322	4:00-5:15MW	119 MCADM	Smotherman Mark K
+CP SC   472	4:00-5:15MW	408 DANL	Stevenson Dennis E
+CP SC   672	4:00-5:15MW	408 DANL	Stevenson Dennis E
+CP SC   862	4:00-5:15MW	415 DANL	Gilbert Juan E
+CP SC   481	5:45-7:00MW PM	415 DANL	Gardner Christina M
+CP SC   481	5:30-6:45M PM	110D MCADM	Dean Brian Christoph
+CP SC   681	5:45-7:00MW PM	415 DANL	Gardner Christina M
+CP SC   681	5:30-6:45M PM	110D MCADM	Dean Brian Christoph
+----------------------------TUESDAY----------------------------			
+			
+CP SC   111	8:00-8:50TTH	119 MCADM	Matthews Elizabeth A
+CP SC   207	8:00-9:15TTH	114 MCADM	Hedetniemi Sandra M
+CP SC   291	8:00-8:50T	123 MCADM	Jones James H.
+CP SC   424	8:00-9:15TTH	408 DANL	Grossman Harold C
+CP SC   624	8:00-9:15TTH	408 DANL	Grossman Harold C
+CP SC   875	8:00-9:15TTH	313 DANL	McGregor John D
+CP SC   101	9:30-10:45TTH	119 MCADM	Hochrine Catherine A
+CP SC   220	9:30-10:45TTH	110B MCADM	Not Assigned
+CP SC   291	9:30-10:20T	123 MCADM	Jones James H.
+CP SC   350	9:30-10:45TTH	303 DANL	Jacobs David P
+CP SC   416	9:30-10:45TTH	114 MCADM	Malloy Brian A
+CP SC   616	9:30-10:45TTH	114 MCADM	Malloy Brian A
+CP SC   822	9:30-10:45TTH	408 DANL	Geist III Robert M
+CP SC   212	11:00-12:15TTH	119 MCADM	Pargas Roy P
+CP SC   215	11:00-12:15TTH	313 ASC	Hochrine Catherine A
+CP SC   220	11:00-12:15TTH	110B MCADM	Lambert Renee S
+CP SC   291	11:00-11:50T	123 MCADM	Jones James H.
+CP SC   360	11:00-12:15TTH	415 DANL	Wang Zijun
+CP SC   362	11:00-12:15TTH	408 DANL	Apon Amy W.
+CP SC   481	11:00-12:15TTH	303 DANL	McMullen Kyla A
+CP SC   681	11:00-12:15TTH	303 DANL	McMullen Kyla A
+CP SC   840	11:00-12:15TTH	246 LEHOT	Dean Brian Christoph
+CP SC   101	12:30-1:45TTH	119 MCADM	Goddard Wayne D
+CP SC   210	12:30-1:45TTH	408 DANL	Lowe Rose M
+CP SC   220	12:30-1:45TTH	110B MCADM	Sterling Patrick D
+CP SC   352	12:30-1:45TTH	201 KINRD	Schalkoff Robert J
+CP SC   372	12:30-1:45TTH	415 DANL	Sitaraman Murali
+CP SC   808	12:30-1:45TTH	118C MCADM	Donar David Stewart
+CP SC   827	12:30-1:45TTH	303 DANL	Grossman Harold C
+CP SC   101	2:00-3:15TTH	119 MCADM	Jacobs David P
+CP SC   207	2:00-3:15TTH	114 MCADM	Hodges Larry F
+CP SC   220	2:00-3:15TTH	110B MCADM	Not Assigned
+CP SC   462	2:00-3:15TTH	415 DANL	Wang Zijun
+CP SC   662	2:00-3:15TTH	415 DANL	Wang Zijun
+CP SC   809	2:00-3:15TTH	118C MCADM	Davis Timothy A
+CP SC   828	2:00-3:15TTH	220 BRACK	Sitaraman Murali
+CP SC   855	2:00-3:15TTH	302 EDWRD	Hallstrom Jason O
+CP SC   881	2:00-3:15TTH	114 BRACK	Levine Joshua A
+CP SC   881	2:00-3:15TTH	319 TILLM	Luo Feng
+CP SC   102	3:30-4:45TTH	119 MCADM	Duchowski Andrew T
+CP SC   220	3:30-4:45TTH	110B MCADM	Sterling Patrick D
+CP SC   405	3:30-4:45TTH	415 DANL	Geist III Robert M
+CP SC   481	3:30-4:45TTH	408 DANL	Pargas Roy P
+CP SC   481	3:30-4:45TTH	303 DANL	Remy Sekou Lionel
+CP SC   605	3:30-4:45TTH	415 DANL	Geist III Robert M
+CP SC   681	3:30-4:45TTH	408 DANL	Pargas Roy P
+CP SC   681	3:30-4:45TTH	303 DANL	Remy Sekou Lionel
+CP SC   819	3:30-4:45TTH	118C MCADM	Tessendorf Jerry A.
+CP SC   481	5:00-5:50TTH	119 MCADM	Jones James H.
+CP SC   863	5:00-6:15TTH PM	415 DANL	Wang Zijun
+CP SC   281	6:00-7:15TTH PM	114 MCADM	Weaver Kenneth Allen
+CP SC   481	6:00-7:15TTH PM	114 MCADM	Weaver Kenneth Allen
+----------------------------WEDNESDAY----------------------------			
+			
+CP SC   102	9:05-9:55MWF	119 MCADM	Lowe Rose M
+CP SC   120	9:05-9:55MW	415 DANL	Daily Shaundra B
+CP SC   950	9:05-9:55W	123 MCADM	Apon Amy W.
+CP SC   111	10:10-11:00MW	415 DANL	Sterling Patrick D
+CP SC   231	10:10-11:00MWF	119 MCADM	Lowe Rose M
+CP SC   350	10:10-11:00MWF	114 MCADM	Stevenson Dennis E
+CP SC   881	10:10-11:00MWF	408 DANL	Woodard Damon L
+CP SC   950	10:00-11:15W	123 MCADM	Sitaraman Murali
+CP SC   111	11:15-12:05MW	415 DANL	Sterling Patrick D
+CP SC   120	11:15-12:05MW	119 MCADM	Hochrine Catherine A
+CP SC   330	11:15-12:05MWF	254 LEHOT	Smotherman Mark K
+CP SC   950	11:30-12:45W	123 MCADM	Hallstrom Jason O
+CP SC   120	1:25-2:15MW	415 DANL	Lambert Renee S
+CP SC   881	1:25-2:15MWF	118C MCADM	Joerg Christina Soph
+CP SC   950	1:00-2:15W	123 MCADM	McGregor John D
+CP SC   220	2:30-3:45MW	110B MCADM	Not Assigned
+CP SC   881	2:30-3:45MW	114 MCADM	Safro Ilya Mark
+CP SC   215	4:00-5:15MW	114 MCADM	Sorber Jacob M
+CP SC   322	4:00-5:15MW	119 MCADM	Smotherman Mark K
+CP SC   472	4:00-5:15MW	408 DANL	Stevenson Dennis E
+CP SC   672	4:00-5:15MW	408 DANL	Stevenson Dennis E
+CP SC   862	4:00-5:15MW	415 DANL	Gilbert Juan E
+CP SC   481	5:45-7:00MW PM	415 DANL	Gardner Christina M
+CP SC   681	5:45-7:00MW PM	415 DANL	Gardner Christina M
+----------------------------THURSDAY----------------------------			
+			
+CP SC   111	8:00-8:50TTH	119 MCADM	Matthews Elizabeth A
+CP SC   207	8:00-9:15TTH	114 MCADM	Hedetniemi Sandra M
+CP SC   291	8:00-8:50TH	123 MCADM	Jones James H.
+CP SC   424	8:00-9:15TTH	408 DANL	Grossman Harold C
+CP SC   624	8:00-9:15TTH	408 DANL	Grossman Harold C
+CP SC   875	8:00-9:15TTH	313 DANL	McGregor John D
+CP SC   101	9:30-10:45TTH	119 MCADM	Hochrine Catherine A
+CP SC   220	9:30-10:45TTH	110B MCADM	Not Assigned
+CP SC   291	9:30-10:20TH	123 MCADM	Jones James H.
+CP SC   350	9:30-10:45TTH	303 DANL	Jacobs David P
+CP SC   416	9:30-10:45TTH	114 MCADM	Malloy Brian A
+CP SC   616	9:30-10:45TTH	114 MCADM	Malloy Brian A
+CP SC   822	9:30-10:45TTH	408 DANL	Geist III Robert M
+CP SC   212	11:00-12:15TTH	119 MCADM	Pargas Roy P
+CP SC   215	11:00-12:15TTH	313 ASC	Hochrine Catherine A
+CP SC   220	11:00-12:15TTH	110B MCADM	Lambert Renee S
+CP SC   360	11:00-12:15TTH	415 DANL	Wang Zijun
+CP SC   362	11:00-12:15TTH	408 DANL	Apon Amy W.
+CP SC   481	11:00-12:15TTH	303 DANL	McMullen Kyla A
+CP SC   681	11:00-12:15TTH	303 DANL	McMullen Kyla A
+CP SC   840	11:00-12:15TTH	246 LEHOT	Dean Brian Christoph
+CP SC   101	12:30-1:45TTH	119 MCADM	Goddard Wayne D
+CP SC   210	12:30-1:45TTH	408 DANL	Lowe Rose M
+CP SC   220	12:30-1:45TTH	110B MCADM	Sterling Patrick D
+CP SC   352	12:30-1:45TTH	201 KINRD	Schalkoff Robert J
+CP SC   372	12:30-1:45TTH	415 DANL	Sitaraman Murali
+CP SC   808	12:30-1:45TTH	118C MCADM	Donar David Stewart
+CP SC   827	12:30-1:45TTH	303 DANL	Grossman Harold C
+CP SC   101	2:00-3:15TTH	119 MCADM	Jacobs David P
+CP SC   207	2:00-3:15TTH	114 MCADM	Hodges Larry F
+CP SC   220	2:00-3:15TTH	110B MCADM	Not Assigned
+CP SC   462	2:00-3:15TTH	415 DANL	Wang Zijun
+CP SC   662	2:00-3:15TTH	415 DANL	Wang Zijun
+CP SC   809	2:00-3:15TTH	118C MCADM	Davis Timothy A
+CP SC   828	2:00-3:15TTH	220 BRACK	Sitaraman Murali
+CP SC   855	2:00-3:15TTH	302 EDWRD	Hallstrom Jason O
+CP SC   881	2:00-3:15TTH	114 BRACK	Levine Joshua A
+CP SC   881	2:00-3:15TTH	319 TILLM	Luo Feng
+CP SC   102	3:30-4:45TTH	119 MCADM	Duchowski Andrew T
+CP SC   220	3:30-4:45TTH	110B MCADM	Sterling Patrick D
+CP SC   405	3:30-4:45TTH	415 DANL	Geist III Robert M
+CP SC   481	3:30-4:45TTH	408 DANL	Pargas Roy P
+CP SC   481	3:30-4:45TTH	303 DANL	Remy Sekou Lionel
+CP SC   605	3:30-4:45TTH	415 DANL	Geist III Robert M
+CP SC   681	3:30-4:45TTH	408 DANL	Pargas Roy P
+CP SC   681	3:30-4:45TTH	303 DANL	Remy Sekou Lionel
+CP SC   819	3:30-4:45TTH	118C MCADM	Tessendorf Jerry A.
+CP SC   481	5:00-5:50TTH	119 MCADM	Jones James H.
+CP SC   863	5:00-6:15TTH PM	415 DANL	Wang Zijun
+CP SC   281	6:00-7:15TTH PM	114 MCADM	Weaver Kenneth Allen
+CP SC   481	6:00-7:15TTH PM	114 MCADM	Weaver Kenneth Allen
+----------------------------FRIDAY----------------------------			
+			
+CP SC   102	9:05-9:55MWF	119 MCADM	Lowe Rose M
+CP SC   231	10:10-11:00MWF	119 MCADM	Lowe Rose M
+CP SC   350	10:10-11:00MWF	114 MCADM	Stevenson Dennis E
+CP SC   881	10:10-11:00MWF	408 DANL	Woodard Damon L
+CP SC   330	11:15-12:05MWF	254 LEHOT	Smotherman Mark K
+CP SC   881	1:25-2:15MWF	118C MCADM	Joerg Christina Soph
+CP SC   950	2:30-3:45F	119 MCADM	House Donald Henry
+CP SC   950	3:30-4:30F	114 MCADM	Dean Brian Christoph
